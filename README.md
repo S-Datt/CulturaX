@@ -114,8 +114,8 @@ Technologies Used
     Transparency: Clear communication regarding data usage policies is provided to users, ensuring they understand how their information is handle
 
     🤝 Contribution
-"This project is a solo submission by for the Qloo LLM Hackathon."
+"This project is a solo submission by for the Qloo LLM Hackathon." While I am the sole contributor, I welcome new features, bug fixes, and improvements. To contribute, please fork the repository, create a new branch, and submit a pull request with your changes.
 
 📄 License
 
-This project was created for the Qloo LLM Hackathon.This project is licensed under the MIT License.
+This project was created for the Qloo LLM Hackathon. This project is licensed under the MIT License.
