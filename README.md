@@ -2,6 +2,7 @@ CulturaX: A Generative AI Chatbot for Personalized Consumer Insights
 
 🚀 Live Demo
 [View the live application here!](https://culturax-mpq4vqtzks9kfs6866m7ah.streamlit.app/)
+
 ✨ Inspiration
 
 We saw a critical gap in a market filled with generic information. Existing tools offer one-size-fits-all data, failing to provide the personalized insights users truly need. CulturaX was created to fill this void, combining consumer insights with generative AI to help people make smarter decisions.
