@@ -1,4 +1,5 @@
 CulturaX: A Generative AI Chatbot for Personalized Consumer Insights
+
 🚀 Live Demo
 [View the live application here!](https://culturax-mpq4vqtzks9kfs6866m7ah.streamlit.app/)
 ✨ Inspiration
