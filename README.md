@@ -5,16 +5,37 @@ CulturaX: A Generative AI Chatbot for Personalized Consumer Insights
 
 ✨ Inspiration
 
-We saw a critical gap in a market filled with generic information. Existing tools offer one-size-fits-all data, failing to provide the personalized insights users truly need. CulturaX was created to fill this void, combining consumer insights with generative AI to help people make smarter decisions.
+We saw a critical gap in a market filled with generic information. Existing tools offer one-size-fits-all data, failing to provide the personalized insights users truly need. CulturaX was created to fill this void, combining consumer insights with generative AI to help people make smarter decisions. 
+
+NLP at its Core: This project is a sophisticated application of Natural Language Processing (NLP), with the Gemini Large Language Model (LLM) at its core, to create a specialized and intelligent chatbot.
+
+Project Overview: A Streamlit web application that acts as an expert analyst in the domains of finance, travelling, and culture. It combines the advanced reasoning of the Gemini large language model with consumer trend insights from a mock Qloo API to provide data-driven and culturally relevant responses.
+
 💡 Features
 
-    Personalized Insights: Tailors consumer insights by analyzing user queries.
+    Insight-Driven Responses: The Gemini model generates responses that are enriched with consumer insights from the Qloo API.
 
-    Dynamic Response Generation: Leverages the Gemini API to generate context-aware, human-like responses.
+    Secure API Integration: Uses st.secrets to securely manage API keys.
 
-    Intuitive Interface: Built on Streamlit for a simple and user-friendly chat experience.
+    Conversational Interface: A modern and responsive chat interface built with Streamlit.
 
-    Secure API Handling: Integrates with st.secrets to ensure API keys are never exposed.
+    GDPR-Compliant by Design: The application does not store any personal user data or chat history.
+
+NLP at its Core: This project is a sophisticated application of Natural Language Processing (NLP), with the Gemini Large Language Model (LLM) at its core, to create a specialized and intelligent chatbot.
+
+How It Works
+
+    A user query is received.
+
+    The application calls a mock Qloo API to retrieve pre-defined consumer insights.
+
+    The query and insights are packaged into a single, comprehensive prompt.
+
+    The enhanced prompt is sent to the Gemini large language model.
+
+    Gemini uses the provided insights to generate a detailed, context-aware response.
+
+    The final response is displayed in the chat interface.
 
 💻 Tech Stack
 
