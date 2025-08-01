@@ -94,8 +94,7 @@ Technologies Used
     # .streamlit/secrets.toml
     GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
 
-QLOO_API_KEY =
-"YOUR_QLOO_API_KEY_HERE" 
+    QLOO_API_KEY = "YOUR_QLOO_API_KEY_HERE" 
 
     Run the app:
 
