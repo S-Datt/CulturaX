@@ -95,6 +95,8 @@ Technologies Used
 
     UI/UX improvements: Continuously refine the user interface based on feedback to provide a more intuitive and engaging experience.
 
+    Multi-user Chat History:  Each user would have their own persistent chat history. This would allow a user to come back later and see their past conversations.
+
 🔒 Privacy Considerations
 
     User Data Protection: CulturaX is designed to prioritize user privacy by minimizing data collection. Personal information is not stored unless explicitly required for functionality, and users are informed about any data usage.
