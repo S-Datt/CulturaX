@@ -97,6 +97,8 @@ Technologies Used
 
     Multi-user Chat History:  Each user would have their own persistent chat history. This would allow a user to come back later and see their past conversations.
 
+    Multi-Model Integration: Explore integrating other models or APIs to expand the chatbot's domain expertise
+
 🔒 Privacy Considerations
 
     User Data Protection: CulturaX is designed to prioritize user privacy by minimizing data collection. Personal information is not stored unless explicitly required for functionality, and users are informed about any data usage.
@@ -110,3 +112,10 @@ Technologies Used
     User Control: Users have the option to manage their data preferences, including the ability to delete their data or opt out of data collection features.
 
     Transparency: Clear communication regarding data usage policies is provided to users, ensuring they understand how their information is handle
+
+    🤝 Contribution
+"This project is a solo submission by for the Qloo LLM Hackathon."
+
+📄 License
+
+This project was created for the Qloo LLM Hackathon.This project is licensed under the MIT License.
