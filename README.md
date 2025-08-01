@@ -9,7 +9,7 @@ We saw a critical gap in a market filled with generic information. Existing tool
 
 NLP at its Core: This project is a sophisticated application of Natural Language Processing (NLP), with the Gemini Large Language Model (LLM) at its core, to create a specialized and intelligent chatbot.
 
-Project Overview: A Streamlit web application that acts as an expert analyst in the domains of finance, travelling, and culture. It combines the advanced reasoning of the Gemini large language model with consumer trend insights from a mock Qloo API to provide data-driven and culturally relevant responses.
+Project Overview: A Streamlit web application that acts as an expert analyst in the domains of finance, travelling, and culture. It combines the advanced reasoning of the Gemini large language model with consumer trend insights from a mock Qloo API to provide data-driven and culturally relevant responses. Streamlit allows rapid development of an interactive chatbot that leverages machine learning, enabling seamless integration of AI models and real-time user interactions in an open-source environment.
 
 💡 Features
 
